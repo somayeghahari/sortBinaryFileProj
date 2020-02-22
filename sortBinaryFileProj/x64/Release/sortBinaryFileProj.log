@@ -1,0 +1,8 @@
+﻿  employee.cpp
+  sortBinaryFileProj.cpp
+C:\Users\somayeghahari\source\repos\sortBinaryFileProj\sortBinaryFileProj\sortBinaryFileProj.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 292 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sortBinaryFileProj.vcxproj -> C:\Users\somayeghahari\source\repos\sortBinaryFileProj\x64\Release\sortBinaryFileProj.exe
